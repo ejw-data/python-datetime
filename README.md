@@ -10,7 +10,6 @@ Notes are in development - multiple repos have different examples of how to mani
 
 <br>  
 
-
 ## Technologies    
 *  Python
 
@@ -26,8 +25,8 @@ Not applicable
 1. Environment needs the following:  
     *  Python 3.6+  
     *  pandas  
-    *  time 
+    *  datetime 
 1. Activate your environment
 1. Clone the repo to your local machine
 1. Navigate the terminal to the repo folder
-1. In the terminal, run `python datetime.ipynb`  
+1. Run `python datetime.ipynb`  
